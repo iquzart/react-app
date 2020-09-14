@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1> Herald Web Application </h1>
+        <h1> Demo - React Web Application </h1>
       </header>
     </div>
   );
